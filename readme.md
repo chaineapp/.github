@@ -1,0 +1,1 @@
+This repository provides the content for the [Flagsmith Organisation Page](https://github.com/Flagsmith)
